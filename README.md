@@ -22,3 +22,6 @@ $ npm expo start
 
 
 <img src="https://github.com/Kannavija/Portfolio/assets/152877516/f52bc0dd-d69e-4220-b22c-8291409e1047" width="500" heigh="800">
+
+<img src="https://github.com/Kannavija/Portfolio/assets/152877516/33c2e195-0de7-4a56-971e-f57faf3c1e82" width="500" heigh="800">
+
