@@ -17,7 +17,6 @@ Pour installer :
 ```
 $ git clone git@github.com:Kannavija/Portfolio.git
 $ npm install
-$ npm expo start 
 ```
 
 
